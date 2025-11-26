@@ -21,4 +21,4 @@ A‑Frame, Three.js, Babylon.js, HTML, CSS, JS
 ## Contact
 Email: akshith.marepalli@gmail.com  
 LinkedIn: linkedin.com/in/akshith-marepalli  
-GitHub: github.com/akshithmarepalli
+GitHub: github.com/akshithmarepalli 
